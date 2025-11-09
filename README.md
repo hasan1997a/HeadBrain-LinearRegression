@@ -16,13 +16,15 @@ A simple **Linear Regression** project to predict **brain weight** based on **he
 
 ---
 
-## 📓 Notebook Contents
+## Notebook Contents
 - Data loading & exploration
 - Visualization (scatter plot)
 - Linear Regression model (using `scikit-learn`)
 - Model evaluation (R² score, MSE)
 - Prediction example
 
+### Visualization
+<image-card alt="Scatter Plot with Regression Line" src="scatter_plot.png" ></image-card>
 ---
 
 ## 🛠️ Requirements
